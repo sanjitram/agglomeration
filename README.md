@@ -23,7 +23,7 @@
 To get started with *MindMeld*, you can access the app through the website:
 
 1. *Go to the MindMeld website*:
-   Visit the official MindMeld app at [https://www.mindmeldapp.com](https://www.mindmeldapp.com) to start using the cognitive performance tracker.
+   Visit the MindMeld app at [https://www.mindmeldapp.com](https://www.mindmeldapp.com) to start using the cognitive performance tracker.
 
 2. *Sign up or Log in*:
    You can create an account or log in to start tracking your cognitive performance. The app offers various cognitive exercises to test memory, focus, attention, and problem-solving abilities.
